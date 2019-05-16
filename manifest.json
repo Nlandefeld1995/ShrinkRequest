@@ -1,0 +1,34 @@
+{
+    "name": "Shrink Request V2",
+    "version": "2.0.0",
+    "size": {
+        "width": 5,
+        "height": 2
+    },
+    "mapping": [{
+            "alias": "drop_down",
+            "dataSetId": "f100402f-4a70-419f-81cb-6d496040baf8",
+            "fields": [{
+                "alias": "item",
+                "columnName": "Item"
+            }]
+        },
+        {
+            "alias": "tech_list",
+            "dataSetId": "80e47d95-8633-4204-87b4-886a04e3188b",
+            "fields": [{
+                "alias": "Name",
+                "columnName": "Full Name"
+            }]
+        },
+        {
+            "alias": "admins",
+            "dataSetId": "8ae7d8c8-d676-4fa4-a67d-22bfa89cbda1",
+            "fields": [{
+                "alias": "Name",
+                "columnName": "Name"
+            }]
+        }
+    ],
+    "id": "{}"
+}
